@@ -5,3 +5,4 @@ Contains the blogs and articles for detailed understanding of GoLang and also co
 > https://github.com/Mindinventory/Golang-Project-Structure
 > https://medium.com/wesionary-team/create-your-first-rest-api-with-golang-using-gin-gorm-and-mysql-d439bcc6f987
 > https://semaphoreci.com/community/tutorials/building-and-testing-a-rest-api-in-go-with-gorilla-mux-and-postgresql
+> https://medium.com/@hugo.bjarred/rest-api-with-golang-and-mux-e934f581b8b5
